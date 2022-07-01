@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Erica Roquemore
+title: My Website
 
 # Your name to show in the footer
 author: Erica Roquemore
@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "enroquemore@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: ericaroquemore
+  facebook: erica.roquemore1
   github: ricapi96
   twitter: erica_dev
 #  patreon: yourname
